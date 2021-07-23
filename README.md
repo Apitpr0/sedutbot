@@ -192,12 +192,12 @@ heroku ps:scale worker=1 -a appname
 ## Bot commands to be set in [@BotFather](https://t.me/BotFather)
 
 ```
-mirror - Start Mirroring
-tarmirror - Upload tar (zipped) file
-unzipmirror - Extract files
+mir - Start Mirroring
+tarmir - Upload tar (zipped) file
+unzipmir - Extract files
 clone - copy file/folder to drive
-watch - mirror YT-DL support link
-tarwatch - mirror youtube playlist link as tar
+yt - mirror YT-DL support link
+taryt - mirror youtube playlist link as tar
 cancel - Cancel a task
 cancelall - Cancel all tasks
 del - Delete file from Drive
